@@ -40,7 +40,7 @@ smart_calculator/
 
 ## Screenshots
 Add your screenshots in a `screenshots/` folder and link them here:
-`![Home](screenshots/home.png)`
+`Capture.png`
 
 ## Author
 <Your Name> – UG-7, Cross Platform Development
